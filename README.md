@@ -1,7 +1,9 @@
 # 100-days-of-python
 Daily projects from Angela Yu's 100 Days of Code - Python Bootcamp
 
-# Purpose of Course: Using as refresher, as fulfills requirement for prereq of MSSWE-DOE program
+### Purpose of Course: 
+Using as refresher, as fulfills requirement for prereq of MSSWE-DOE program
+
 ## Current Progress: Day 03 / 100
 
 ## Projects Completed
